@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+
+# OS and editor-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Testing frameworks
+coverage/
+.nyc_output/
+
+# Miscellaneous
+*.cache
+*.zip
+*.tgz
+*.rar
